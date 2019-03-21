@@ -45,28 +45,28 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 1. Beranda
 Beranda ini berisi pilihan untuk melihat data apa yang dituju.
-![Beranda](screenshot/Screenshot_4.PNG)
+![Beranda](screenshot/Screenshot_4.png)
 
 ## 2. Read Data (Pekerja)
 Sebuah page yang berisi data data pekerja yang didalamnya dapat melakukan sebuah crud.
-![ReadData](screenshot/Screenshot_5.PNG)
+![ReadData](screenshot/Screenshot_5.png)
 
 ## 3. Create Data (Pekerja)
 Sebuah page form untuk melakukan sebuah penambahan data pekerja dan lansung bertambah kedatabase.
-![ReadData](screenshot/Screenshot_6.PNG)
+![ReadData](screenshot/Screenshot_6.png)
 
 ## 4. Edit Data (Pekerja)
 Sebuah page form untuk melakukan sebuah Perubahan han data anggota dan lansung berubah didatabasenya pun .
-![ReadData](screenshot/Screenshot_8.PNG)
+![ReadData](screenshot/Screenshot_8.png)
 
 ## 2. Read Data (BidangKerja)
 Sebuah page yang berisi data data bidangkerja yang didalamnya dapat melakukan sebuah crud.
-![ReadData](screenshot/Screenshot_10.PNG)
+![ReadData](screenshot/Screenshot_10.png)
 
 ## 3. Create Data (BidangKerja)
 Sebuah page form untuk melakukan sebuah penambahan data bidangkerja dan lansung bertambah kedatabase.
-![ReadData](screenshot/Screenshot_11.PNG)
+![ReadData](screenshot/Screenshot_11.png)
 
 ## 4. Edit Data (BidangKerja)
 Sebuah page form untuk melakukan sebuah Perubahan data bidangkerja dan lansung berubah didatabasenya pun .
-![ReadData](screenshot/Screenshot_12.PNG)
+![ReadData](screenshot/Screenshot_12.png)
